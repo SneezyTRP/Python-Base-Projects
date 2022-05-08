@@ -1,10 +1,17 @@
 
-""""
-Madlib Python project
-
- 1. We shall make use of string concatenation
- 2. Python functions
- 3. Python modules 
- 
- """
- 
+ def madlib():
+    adj1 = input("Adjective: ")
+    adj2 = input("Adjective: ")
+    adj3 = input("Adjective: ")
+    adj4 = input("Adjective: ")
+    noun1 = input("Noun: ")
+    noun2 = input("Noun: ")
+    noun3 = input("Noun: ")
+    noun4 = input("Noun: ")
+    noun5 = input("Noun: ")
+    noun6 = input("Noun: ")
+    noun_plural = input("Noun plural: ")
+    body_part = input("Body part: ")
+    body_part2 = input("Body part: ")
+    verb = input("Verb: ")
+    verb_past = input("Verb (past tense): ")
